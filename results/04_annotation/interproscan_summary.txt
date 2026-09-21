@@ -1,0 +1,12 @@
+InterProScan summary
+====================
+Input protein file: $HOME/rerunacacia/annotation/braker/braker.clean.aa
+InterProScan version: 5.75-106.0
+CPUs: 64 (was 16, now 64 — 4x speedup)
+
+Total proteins: 33942
+Proteins with InterPro/Pfam hits: 29295
+Proteins with GO terms: 18404
+Unique GO terms: 1251
+
+Top 20 Pfam domains: see top20_pfam.txt

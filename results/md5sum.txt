@@ -1,0 +1,15 @@
+f8782ad3c85ff22ee3fdd3d7255d5506  01_assembly/rename_map.tsv
+e85e89b8a0dfbdc26b2d4f54675e3a8d  02_busco/busco_figure.png
+5a25f06eb4f2e449af02f7b5a4e94b29  02_busco/short_summary.specific.embryophyta_odb10.hasil_polish_round5.json
+017c4aad7199f87cfab51923a031a3d1  02_busco/short_summary.specific.embryophyta_odb10.hasil_polish_round5.txt
+bdf2c87031edb1b67c750cee52b52e84  03_repeat/acacia_final.fasta.tbl
+59a295e43230ed20505c0e3edfea742b  04_annotation/braker.gtf
+0a393fdff05a58e33453737c0868494b  04_annotation/diamond_swissprot.tsv
+33a44454a6a5b826bf6079b8b1241185  04_annotation/diamond_uniref90.tsv
+e0fad6f1dd834715bd3e0ad1df8cfa25  04_annotation/genome_annotation_final.tsv
+4d25edafaaba87402149fd3d96a6ef4d  04_annotation/interproscan_summary.txt
+0826b0418fdc918964bded91b477906d  04_annotation/pfam.txt
+1e6515e928753d1cb76cc7c8db40e01b  04_annotation/top20_pfam.txt
+c00e1c6122f8ddcab1acc9651a8e77fb  04_annotation/trna.fa
+8c1ee493b7c979014a5a6b20204cf9c8  04_annotation/trna.out
+e67c1d58b7fa8ecd62fbe86d72a7755f  04_annotation/trna.stats
