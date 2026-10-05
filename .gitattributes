@@ -1,6 +1,6 @@
-# Git LFS untuk file genom besar (disimpan hanya bila dibutuhkan di masa depan).
-# Hasil wrap-up saat ini semuanya <100 MB sehingga tersimpan sebagai blob biasa.
-*.fasta filter=lfs diff=lfs merge=lfs -text
-*.fa filter=lfs diff=lfs merge=lfs -text
-*.fastq.gz filter=lfs diff=lfs merge=lfs -text
-*.bam filter=lfs diff=lfs merge=lfs -text
+# Large publication data files stored with Git LFS
+
+genome/*.fa.gz filter=lfs diff=lfs merge=lfs -text
+annotation/*.gtf.gz filter=lfs diff=lfs merge=lfs -text
+annotation/*.aa.gz filter=lfs diff=lfs merge=lfs -text
+supplementary/*.vcf.gz filter=lfs diff=lfs merge=lfs -text
