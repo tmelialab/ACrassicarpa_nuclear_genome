@@ -62,7 +62,7 @@ assembly.
 │   └── 99_utilities/
 │
 └── results/
-
+```
 ## Analysis workflows
 
 The `scripts/` directory contains the computational workflows used for
